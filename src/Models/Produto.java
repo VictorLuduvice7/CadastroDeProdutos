@@ -1,3 +1,4 @@
+package Models;
 
 // Classes
 public class Produto {
@@ -25,9 +26,12 @@ public class Produto {
     }
 
 
-    // fzd o metodo para aplicar o desconto
+    /*
+    // aplicar desconto
     public void aplicarDesconto(double percentualDesconto) {
         double desconto = preco * (percentualDesconto / 100);
         preco -= desconto;
     }
+
+     */
 }
