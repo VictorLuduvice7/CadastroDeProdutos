@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Produtos 
 
-Este é um sistema de cadastro de produtos ou Usuáios desenvolvido para testar meus conhecimentos. Com ele, é possível adicionar, visualizar, atualizar e excluir produtos.
+Este é um sistema de cadastro de produtos ou Usuários desenvolvido para testar meus conhecimentos. Com ele, é possível adicionar, visualizar, atualizar e excluir produtos e usuários.
 
 # Funcionalidades 
 - Cadastro de Produtos: Permite adicionar novos produtos com informações como nome e preço.
