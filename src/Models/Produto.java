@@ -11,8 +11,8 @@ public class Produto {
     }
 
     //Getters
-    public String getNome() {
-        return nome;
+    public String getNome(String nome) {
+        return this.nome;
     }
 
     public double getPreco() {
@@ -23,6 +23,9 @@ public class Produto {
     @Override   //usada para indicar que o método está sobrescrevendo um método da classe pai (nesse caso, o método toString() da classe Object).
     public String toString() {
         return "Nome: " + nome + ", Preço: R$" + preco;
+    }
+
+    public void add(String s) {
     }
 
 

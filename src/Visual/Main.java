@@ -34,7 +34,8 @@ public class Main {
                 case 2: // listando produtos !         ( ✔ )
                     cadastroProdutos.listarProdutos();
                     break;
-                case 3: // Excluir produtos !     ( X )
+                case 3: // Excluir produtos !     ( ✔ )
+
                     scanner.nextLine(); // Consumir a quebra de linha
                     System.out.print("Digite o nome do produto a ser excluído: ");
                     Object nome = scanner.nextLine();
